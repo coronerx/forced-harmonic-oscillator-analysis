@@ -47,7 +47,7 @@ Suggested Markdown:
 
 *Measured maximum-velocity response for five motor-voltage trials (solid lines) compared with the modeled response (dotted lines).*
 -->
-![Measured and theoretical maximum-velocity response for five motor-voltage trials](assets/figure6.png)
+![Measured and theoretical maximum-velocity response for five motor-voltage trials](assets/figure15.png)
 The analysis is based on the driven damped-oscillator model
 
 \[
@@ -65,7 +65,7 @@ m\ddot{x} + R\dot{x} + kx = F_0\sin(\omega t).
 - The analysis exposed high sensitivity in calculated damping values when velocity approached zero, showing how derivative-based quantities can amplify measurement uncertainty.
 - A systematic test limitation was documented: starting acquisition after the motion stabilized reduced coverage of the early transient and higher-frequency behavior.
 
-![Normalized measured and predicted response for the disc and plate configurations](assets/figure15.png)
+![Normalized measured and predicted response for the disc and plate configurations](assets/figure6.png)
 ## Repository contents
 
 | File | Description |
